@@ -1,32 +1,14 @@
-# React Todo List App
+# Todolist React app
 
-This is a simple Todo List app built with React that uses an API to store and retrieve tasks. Users can add, edit, and delete tasks on the app.
+##Features 
+-Fetch and show todo items from the api - https://jsonplaceholder.typicode.com/todos
+-Add a todo item, make a POST call to the above url (from where you are fetching) and save the item in react state. (This will be a dummy request, you won’t be able to add items to the 
+ server. But the request is valid and will send you some data).
+-Update the item, make a PUT call to the above url. (Again this is a dummy call).
+-Delete an item, make a DELETE call to the above url. (Again this is a dummy call)
 
-## Getting Started
+![Screenshot (378)](https://github.com/Hardik9800/Todolist-/assets/51282682/dbf48ab1-b447-4164-9b6c-a4aaadb913b4)
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
-
-## Features
-
-# Add task
-
-Users can add a new task to the list by clicking on the "Add Task" button and typing in the task name.
-
-# Edit task
-
-Users can edit a task by clicking on the task name and typing in the new name.
-
-# Delete task
-
-Users can delete a task by clicking on the "Delete" button next to the task.
-
-# Count
-
-user can check total task and completed task
-
-# Clear completed tasks
-
-Users can clear all completed tasks by clicking on the "Clear Completed" button.
 
 ### Technologies
 
@@ -44,14 +26,6 @@ bootstrap is a css framework that provides a set of icons that can be used in a 
 
 ## Installing
 
-Clone this repository to your local machine.
-
-### `git clone https://github.com/Vishal7547/cnTodo.git`
-
-# Navigate to the project directory.
-
-cd cnTodo
-
 # Install the required packages.
 
 ### `npm install`
@@ -66,13 +40,6 @@ You should see the Todo List app with some default tasks.
 
 Use the app to add, edit, and delete tasks as needed. All changes will be saved to the API.
 
-# Built With
 
-. React - The JavaScript library used to build the app.
-. API - The external data source used to store and retrieve tasks.
 
-# Contributing
 
-. This project is open for contributions. Feel free to submit issues, pull requests, or suggestions.
-
-<img src='https://www.linkpicture.com/q/todo_3.png'>
