@@ -34,7 +34,7 @@ bootstrap is a css framework that provides a set of icons that can be used in a 
 
 ### `npm install`
 
-# uses
+# Run
 
 ### `npm start`
 
